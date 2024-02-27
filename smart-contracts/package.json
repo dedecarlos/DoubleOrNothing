@@ -10,7 +10,7 @@
     "@thundercore/referral-solidity": "^1.0.1",
     "openzeppelin-solidity": "^2.3.0",
     "truffle": "^5.1.22",
-    "@truffle/hdwallet-provider": "^1.0.34"
+    "@truffle/hdwallet-provider": "^2.1.15"
   },
   "devDependencies": {
     "truffle-flattener": "^1.4.2",
